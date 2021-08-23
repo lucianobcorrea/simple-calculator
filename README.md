@@ -1,4 +1,4 @@
-# calculadoraSimples
+# Calculadora Simples
 Calculadora com interface e com as quatro operações matemáticas (+, -, *, /).
 
 ## Interface da Calculadora
