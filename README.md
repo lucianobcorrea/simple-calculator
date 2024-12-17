@@ -1,7 +1,7 @@
-# Calculadora Simples
-Calculadora com interface e com as quatro operações matemáticas (+, -, *, /).
+# Simple Calculator
+Calculator with an interface and the four mathematical operations (+, -, *, /).
 
-## Interface da Calculadora
+## Calculator Interface
 <p float="left">
   <img src="interfaceCalculadora.png" width="300" />
 </p>
